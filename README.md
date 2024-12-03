@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahd712178
+- 👋 Hi, I’m shahd
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning cs engineering 
 - 💞️ I’m looking to collaborate on learning 
